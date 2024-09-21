@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","14292","test_add_items_and_checkout","tests","Sat Sep 21 07:38:39 IST 2024","passed","Sat Sep 21 07:38:54 IST 2024","TestCheckout","test_checkout","",""
+"","6063","test_price_order_high_to_low","tests","Sat Sep 21 07:38:54 IST 2024","passed","Sat Sep 21 07:39:01 IST 2024","TestPricing","test_pricing","",""
+"","6010","test_sorting_order_z_to_a","tests","Sat Sep 21 07:39:01 IST 2024","passed","Sat Sep 21 07:39:07 IST 2024","TestSorting","test_sorting","",""
